@@ -10,8 +10,8 @@ Hello, developer. See that you wants to be a contributor no? :bowtie:
 - You need to see other person ideas, this is good. With this you can make to the other person good!
 3. Make the Utilities on the search pages.
 - For example: If you make a utility on the Home page, you can be quited from the contributor list. But if you make a paint when search `paint`, `Paint`, `Paint Brush` or `Paint Images` it's all good.
-4. Import all to the React :atom: site.
-- If you imports the utility to other repository or not in the React :atom: site, you can be quited from the contributor list.
+4. Import all to the React :electron: site.
+- If you imports the utility to other repository or not in the React :electron: site, you can be quited from the contributor list.
 
 ## We nice to meet you contributing!
 
